@@ -19,7 +19,7 @@ const Children = () => {
                         <Route path="/categorias" element={<NotFound />} />
                         <Route path="/meus-pedidos" element={<NotFound />} />
                         <Route path="/detalhes-produtos" element={<ProductDetails />} />
-                       <Route path="/about" element={<PageNotfound />} /> 
+                        <Route path="/about" element={<PageNotfound />} /> 
                         <Route path="/security" element={<PageNotfound />} /> 
                         <Route path="/wishlist" element={<PageNotfound />} /> 
                         <Route path="/blog" element={<PageNotfound />} /> 

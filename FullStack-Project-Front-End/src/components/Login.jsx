@@ -18,7 +18,6 @@ const Login = () => {
                     <a href="/Home" rel="" className="bg-pri border-round-lg text-center font-bold whi-t p-3 w-11 lg:w-11 mx-auto" style={{border:'2px solid white'}}>
                         Acesse Conta
                     </a>
-
                 </form>
                 <p>Ou faça login com</p>
                 <div className="flex justify-content-around mx-auto w-4 lg:w-3" >

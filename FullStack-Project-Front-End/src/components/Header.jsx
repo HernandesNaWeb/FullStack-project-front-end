@@ -1,8 +1,6 @@
 import Logo from "./Logo";
 import React, { useState } from 'react';
 
-
-
 const Header = () => {
     
 const [menuOpen, setOpenMenu] = useState(false);
