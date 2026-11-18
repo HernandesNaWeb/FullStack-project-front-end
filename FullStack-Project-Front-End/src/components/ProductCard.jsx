@@ -35,8 +35,7 @@ const Product = ({id, filter, image, name, price, priceDiscount }) => {
                                 30% off
                             </p>
                                 <div className="justify-content-around mx-3">
-                                    <img 
-                                        style={{width:'292px',
+                                    <img style={{width:'292px',
                                                 height:'321px', 
                                                 objectFit:'contain'}} 
                                         src={product.image} 

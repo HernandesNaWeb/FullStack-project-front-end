@@ -32,11 +32,11 @@ const ProductList = () => {
                             className="menu-toggle-btn bg-pri" 
                             onClick={() => setfilterMenu(!filterOpen)}
                             aria-label="Abrir filtro">    
-                            {filterOpen ? <img src="../public/xis.png" alt="" className="" 
+                            {filterOpen ? <img src="/xis.png" alt="" className="" 
                                 style={{width:'15px', 
                                         height:'15px', 
                                         opacity:'50%'}}/>
-                                        : <img src="../public/filter2.png" className="p-2 border-round-sm bg-pri" 
+                                        : <img src="/filter2.png" className="p-2 border-round-sm bg-pri" 
                                             style={{width:'35px', 
                                                     height:'30px'}}/>}
                         </button>

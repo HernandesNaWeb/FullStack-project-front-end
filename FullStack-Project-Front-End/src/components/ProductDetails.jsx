@@ -96,35 +96,35 @@ const ProductDetails = ({color= "#8F8F8F", color2= "#C92071"}) => {
                         <div className="flex h-minlg:h-max mt-3" style={{}}>
                             <div className=" border-round-md mr-3 py-2" 
                                 style={{height:'95px'}}>
-                                <img src="public/product-thumb-1.jpeg" alt="" className="border-1 bg-pur border-round-md" 
+                                <img src="/product-thumb-1.jpeg" alt="" className="border-1 bg-pur border-round-md" 
                                     style={{width:'110px', 
                                         height:'80px', 
                                         objectFit:'cover'}}/>
                             </div>
                             <div className=" border-round-md ml-2 mr-3 py-2" 
                                 style={{height:'95px'}}>
-                                <img src="public/product-thumb-2.jpeg" alt="" className="border-1 bg-yel border-round-md" 
+                                <img src="/product-thumb-2.jpeg" alt="" className="border-1 bg-yel border-round-md" 
                                     style={{width:'110px', 
                                         height:'80px', 
                                         objectFit:'cover'}}/>
                             </div>
                             <div className=" border-round-md ml-2 mr-3 py-2" 
                                 style={{height:'95px'}}>
-                                <img src="public/product-thumb-3.jpeg" alt="" className="border-1 bg-pin border-round-md" 
+                                <img src="/product-thumb-3.jpeg" alt="" className="border-1 bg-pin border-round-md" 
                                     style={{width:'110px', 
                                         height:'80px', 
                                         objectFit:'cover'}}/>
                             </div>
                             <div className=" border-round-md ml-2 mr-3 py-2" 
                                 style={{height:'95px'}}>
-                                <img src="public/product-thumb-4.jpeg" alt="" className="border-1 bg-gol border-round-md" 
+                                <img src="/product-thumb-4.jpeg" alt="" className="border-1 bg-gol border-round-md" 
                                     style={{width:'110px', 
                                         height:'80px', 
                                         objectFit:'cover'}}/>
                             </div>
                             <div className=" border-round-md ml-2 py-2" 
                                 style={{height:'95px'}}>
-                                <img src="public/product-thumb-5.jpeg" alt="" className="border-1 bg-cob border-round-md" 
+                                <img src="/product-thumb-5.jpeg" alt="" className="border-1 bg-cob border-round-md" 
                                     style={{width:'110px', 
                                         height:'80px', 
                                         objectFit:'cover'}}/>
@@ -145,7 +145,7 @@ const ProductDetails = ({color= "#8F8F8F", color2= "#C92071"}) => {
                         <path d="M85.651 0.730597L87.5003 5.15038L92.2346 5.56108C92.563 5.58972 92.6966 6.00343 92.4473 6.22122L88.8563 9.36292L89.9324 14.0367C90.007 14.3614 89.6585 14.6169 89.3764 14.4443L85.3077 11.9666L81.2391 14.4443C80.9562 14.6162 80.6085 14.3607 80.6831 14.0367L81.7592 9.36292L78.1674 6.22047C77.9181 6.00268 78.051 5.58896 78.3801 5.56033L83.1144 5.14962L84.9637 0.730597C85.0921 0.423134 85.5227 0.423134 85.651 0.730597Z" stroke="#F6AA1C"/>
                         </svg>
                         <p className="border-round-sm bg-wrn px-2 mx-3 w-max font-bold text-lg my-auto text-center whi-t">4.7 
-                        <img src="./public/star.png" className="ml-2" 
+                        <img src="/star.png" className="ml-2" 
                             style={{width:'15px', 
                                     height:'13px'}}/>
                         </p> 
@@ -319,11 +319,11 @@ const ProductDetails = ({color= "#8F8F8F", color2= "#C92071"}) => {
                     <li className="mx-2 my-3 lg:mx-2">
                         <div className=" shadow-2 p-1 border-round-md flex-wrap">
                             <div className="justify-content-around mx-3">
-                                <img className="" 
-                                    style={{width:'292px',
+                                <img style={{width:'292px',
                                             height:'321px', 
                                             objectFit:'contain'}} 
-                                            src="./public/produc-image-22.jpg" alt="" />
+                                            src="/produc-image-22.jpg" 
+                                            alt="" />
                             </div>
                         </div>
                         <h3 className="mb-0 white-space-nowwrap overflow-hidden text-overflow-ellipsis">Nike Air Force 1 '07 Mini Jewel</h3>
@@ -337,7 +337,11 @@ const ProductDetails = ({color= "#8F8F8F", color2= "#C92071"}) => {
                     <li className="mx-2 my-3 lg:mx-2">
                         <div className=" shadow-2 p-1 border-round-md flex-wrap">
                             <div className="justify-content-around mx-3">
-                                <img className="" style={{width:'292px',height:'321px', objectFit:'contain'}} src="./public/produc-image-22.jpg" alt="" />
+                                <img style={{width:'292px',
+                                            height:'321px', 
+                                            objectFit:'contain'}} 
+                                            src="/produc-image-22.jpg" 
+                                            alt="" />
                             </div>
                         </div>
                         <h3 className="mb-0 white-space-nowwrap overflow-hidden text-overflow-ellipsis">Nike Air Force 1 '07 Mini Jewel</h3>
@@ -351,7 +355,11 @@ const ProductDetails = ({color= "#8F8F8F", color2= "#C92071"}) => {
                     <li className="mx-2 my-3 lg:mx-2">
                         <div className=" shadow-2 p-1 border-round-md flex-wrap">
                             <div className="justify-content-around mx-3">
-                                <img className="" style={{width:'292px',height:'321px', objectFit:'contain'}} src="./public/produc-image-22.jpg" alt="" />
+                                <img style={{width:'292px',
+                                            height:'321px', 
+                                            objectFit:'contain'}} 
+                                            src="/produc-image-22.jpg" 
+                                            alt="" />
                             </div>
                         </div>
                         <h3 className="mb-0 white-space-nowwrap overflow-hidden text-overflow-ellipsis">Nike Air Force 1 '07 Mini Jewel</h3>
@@ -365,7 +373,11 @@ const ProductDetails = ({color= "#8F8F8F", color2= "#C92071"}) => {
                     <li className="mx-2 my-3 lg:mx-2">
                         <div className=" shadow-2 p-1 border-round-md flex-wrap">
                             <div className="justify-content-around mx-3">
-                                <img className="" style={{width:'292px',height:'321px', objectFit:'contain'}} src="./public/produc-image-22.jpg" alt="" />
+                                <img style={{width:'292px',
+                                            height:'321px', 
+                                            objectFit:'contain'}} 
+                                            src="/produc-image-22.jpg" 
+                                            alt="" />
                             </div>
                         </div>
                         <h3 className="mb-0 white-space-nowwrap overflow-hidden text-overflow-ellipsis">Nike Air Force 1 '07 Mini Jewel</h3>

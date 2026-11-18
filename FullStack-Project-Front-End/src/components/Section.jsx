@@ -96,9 +96,9 @@ const Section = ({color= "#8F8F8F", color2= "#C92071"}) => {
                     style={{marginLeft:'auto', 
                             marginRight:'auto'}}>
                     <h3 className="w-full lg:w-10 py-4 lg:px-3 ">Coleções em destaque</h3>
-                    <img src="./public/collection-1.png" alt="" className="b-col w-11 lg:w-max" />
-                    <img src="./public/collection-2.png" alt="" className="b-col w-11 lg:w-max" />
-                    <img src="./public/collection-3.png" alt="" className="b-col w-11 lg:w-max" />
+                        
+                    <img src="/collection-2.png" alt="" className="b-col w-11 lg:w-max" />
+                    <img src="/collection-3.png" alt="" className="b-col w-11 lg:w-max" />
                 </div>
             </section>
             <section className="w-screen lg:w-full mb-4 flex justify-content-center flex-column">
@@ -107,23 +107,23 @@ const Section = ({color= "#8F8F8F", color2= "#C92071"}) => {
                 </div>
                 <div className="grid justify-content-around w-screen lg:w-5 mx-auto ">
                     <span>
-                        <img src="../public/T-shirt.png" className="d-col"/>
+                        <img src="/T-shirt.png" className="d-col"/>
                         <p className="text-center font-bold dt-gray2 text-sm">Camisetas</p>
                     </span>
                     <span>
-                        <img src="../public/leg.png" className="d-col"/>
+                        <img src="/leg.png" className="d-col"/>
                         <p className="text-center font-bold dt-gray2 text-sm">Calças</p>
                     </span>
-                    <span className="">
-                        <img src="../public/cap.png" className="d-col"/>
+                    <span>
+                        <img src="/cap.png" className="d-col"/>
                         <p className="text-center font-bold dt-gray2 text-sm">Bonés</p>
                     </span>
-                    <span className="">
-                        <img src="../public/headphone.png" className="d-col"/>
+                    <span>
+                        <img src="/headphone.png" className="d-col"/>
                         <p className="text-center font-bold dt-gray2 text-sm">Headphones</p>
                     </span>
-                    <span className="">
-                        <img src="../public/sneakers.png" className="d-col"/>
+                    <span>
+                        <img src="/sneakers.png" className="d-col"/>
                         <p className="text-center font-bold dt-gray2 text-sm">Tênis</p>
                     </span>
                 </div>
