@@ -26,8 +26,8 @@ const Footer = () => {
                             <a href="/security" className="foot-PCA-liw"><p>Segurança</p></a>
                             <a href="/wishlist" className="foot-PCA-liw"><p>Whishlist</p></a>
                             <a href="/blog" className="foot-PCA-liw"><p>Blog</p></a>
-                           <a href="/jobs" className="foot-PCA-liw"><p>Trabalhe Conosco</p></a>
-                           <a href="/login" className="foot-PCA-liw"><p>Meus Pedidos</p></a>
+                            <a href="/jobs" className="foot-PCA-liw"><p>Trabalhe Conosco</p></a>
+                            <a href="/login" className="foot-PCA-liw"><p>Meus Pedidos</p></a>
                         </div>            
                         <div className="foot-PCA-d ml-5 lg:ml-6">
                             <h3>Categorias</h3>
