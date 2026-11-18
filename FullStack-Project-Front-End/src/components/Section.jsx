@@ -96,7 +96,7 @@ const Section = ({color= "#8F8F8F", color2= "#C92071"}) => {
                     style={{marginLeft:'auto', 
                             marginRight:'auto'}}>
                     <h3 className="w-full lg:w-10 py-4 lg:px-3 ">Coleções em destaque</h3>
-                        
+                    <img src="/collection-1.png" alt="" className="b-col w-11 lg:w-max" />   
                     <img src="/collection-2.png" alt="" className="b-col w-11 lg:w-max" />
                     <img src="/collection-3.png" alt="" className="b-col w-11 lg:w-max" />
                 </div>
