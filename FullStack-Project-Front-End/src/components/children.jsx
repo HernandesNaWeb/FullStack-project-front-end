@@ -27,7 +27,7 @@ const Children = () => {
                         <Route path="/login" element={<Login />} /> 
                         <Route path="/cadastro" element={<Cadastro />} />
                         <Route path="/camisetas" element={<PageNotfound />} />
-                        <Route path="/calças" element={<PageNotfound />} />
+                        <Route path="/calcas" element={<PageNotfound />} />
                         <Route path="/bones" element={<PageNotfound />} />
                         <Route path="/headphones" element={<PageNotfound />} />
                         <Route path="/tenis" element={<PageNotfound />} />
