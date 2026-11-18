@@ -1,56 +1,56 @@
 { "Products": [
   {
   "ide": 1,
-  "image": "/public/produc-image-1.jpeg",
+  "image": "/produtos/produc-image-1.jpeg",
   "name": " SoleSavy 'SS1'",
   "price": 200,
   "priceDiscount": 100
 }, 
 {
   "id": 2,
-  "image": "/public/produc-image-22.jpg",
+  "image": "/produtos/produc-image-22.jpg",
   "name": " Nike Air Force 1 '07 Mini Jewel",
   "price": 200,
   "priceDiscount": 100
 } ,
 {
   "id": 3,
-  "image": "/public/produc-image-3.jpeg",
+  "image": "/produtos/produc-image-3.jpeg",
   "name": "Nike SB Dunk High 'Spectrum' ",
   "price": 200,
   "priceDiscount": 100
 },
 {
   "id": 4,
-  "image": "/public/produc-image-4.jpeg",
+  "image": "/produtos/produc-image-4.jpeg",
   "name": "Converse Chuck Taylor All Star",
   "price": 200,
   "priceDiscount": 100
 },
 {
   "id": 5,
-  "image": "/public/produc-image-5.jpeg",
+  "image": "/produtos/produc-image-5.jpeg",
   "name": "Air Max 1",
   "price": 200,
   "priceDiscount": 100
 },
 {
   "id": 6,
-  "image": "/public/produc-image-6.jpg",
+  "image": "/produtos/produc-image-6.jpg",
   "name": "Nike Air Force 1 Low - Styled Edition",
   "price": 200,
   "priceDiscount": 100
 },
 {
   "id": 7,
-  "image": "/public/produc-image-7.jpg",
+  "image": "/produtos/produc-image-7.jpg",
   "name": "Nike Air Force 1",
   "price": 200,
   "priceDiscount": 100
 },
 {
   "id": 8,
-  "image": "/public/produc-image-8.jpg",
+  "image": "/produtos/produc-image-8.jpg",
   "name": "Nike Air Force 1 '07' ",
   "price": 200,
   "priceDiscount": 100
